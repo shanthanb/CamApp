@@ -14,5 +14,4 @@ You can also delete photos from the image library.
 - Add additional functionalities such as flash.
 - Try with Redux
 
-### Try at Expo!
-https://expo.io/@shanthanb/react-native-camera
+### 

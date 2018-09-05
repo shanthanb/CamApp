@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "react-native-camera",
-    "description": "This project is really great.",
+    "description": "The project is about Camera",
     "slug": "react-native-camera",
     "privacy": "public",
     "sdkVersion": "24.0.0",
